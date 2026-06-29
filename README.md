@@ -664,9 +664,3 @@ This project is **dual-licensed**:
 
 ---
 
-## Contact
-
-For issues, questions, or collaboration inquiries:
-
-- 📧 Email: [info@autocoderover.dev](mailto:info@autocoderover.dev)
-- 💬 Discord: [AutoCodeRover Community](https://discord.com/invite/ScXsdE49JY)
